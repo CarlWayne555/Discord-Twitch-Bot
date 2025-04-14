@@ -1,0 +1,19 @@
+{
+    "bot_token": "",
+    "prefix": ".",
+    "use_proxy": false,
+    "dont_change": false,
+    "bot_channel1": 995068306748883134,
+    "bot_channel2": 995068306748883134,
+    "role1": "Member",
+    "role2": "Bronze",
+    "role3": "Silver",
+    "role4": "Gold",
+    "role5": "Premium",
+    "default_amount": 25,
+    "role1_amount": 50,
+    "role2_amount": 80,
+    "role3_amount": 120,
+    "role4_amount": 180,
+    "role5_amount": 300
+}
